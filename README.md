@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **MEARN , Figma**
+- 💬 Ask me about **MERN , Figma**
 
 - 📫 How to reach me **tech.aku17@gmail.com**
 
