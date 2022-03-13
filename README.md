@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFRPBTkO2srCw/profile-displaybackgroundimage-shrink_350_1400/0/1638693404313?e=1651104000&v=beta&t=-FkggejEZaFdX1TYCQpqSIBsEVYySw00OS2s-j8eHyI)
+<!-- ![MasterHead]() -->
 <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
