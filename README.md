@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Aakash Kumar  <img src="https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="45" align="center"></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p>
 
@@ -15,6 +17,7 @@
 - 💬 Ask me about **MERN , Figma**
 
 - 📫 How to reach me **tech.aku17@gmail.com**
+
 
 <h3 align="left">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
 <p align="left">
