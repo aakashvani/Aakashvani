@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/aakashvani17" target="blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?logo=twitter&style=for-the-badge" alt="aakashvani17" /></a> </p>
 
-- 🌱 I’m currently learning **TYPESCIRPT**
+- 🌱 I’m currently learning [TYPESCIRPT](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
 
