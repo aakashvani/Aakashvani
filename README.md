@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
 
-- 💬 Ask me about MERN , [Figma](https://www.figma.com/best-practices/guide-to-developer-handoff/file-organization/)
+- 💬 Ask me about [MERN](https://www.mongodb.com/mern-stack) , [Figma](https://www.figma.com/best-practices/guide-to-developer-handoff/file-organization/)
 
 - 📫 How to reach me **tech.aku17@gmail.com**
 
