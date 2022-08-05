@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tech.aku17@gmail.com**
 
-- 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/1Yz9cP4DoIfcrq9kcuET0wGLb9FsH46G5/view?usp=sharing)
+- 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/1T2SEim-ZpDCpyOSrHUhaKjcq-MLFfrJY/view?usp=sharing)
 
 
 <h3 align="left">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
