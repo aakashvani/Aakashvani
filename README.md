@@ -51,32 +51,26 @@
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
 <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
+ <img src="https://img.shields.io/badge/Yarn-100000?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vs-code"/>
 <img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
 <img src="https://img.shields.io/badge/Figma-CB3837?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/>
+ <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
 </p>
 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
-  <br>
-
-
-
-<!-- language i know  -->
-<!-- 
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvani&show_icons=true&locale=en&layout=compact" alt="aakashvani" />
-</p>
--->
-
+<br>
 <br/> 
 
 
 
 <!-- GitHub's STATS  -->
-<h3 align="center"><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+<h3 align="center"><i>GitHub's Analytics <img align="center" src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/50/000000/external-analytics-infographic-and-chart-xnimrodx-blue-xnimrodx.png"/></i></h3>
+
+
 
 <hr>
 
