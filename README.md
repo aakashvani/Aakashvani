@@ -80,7 +80,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark)](https://git.io/streak-stats)
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakashvani&show_icons=true&theme=merko)
 
 <p align="center">
 <a href="https://github.com/Aakashvani">
