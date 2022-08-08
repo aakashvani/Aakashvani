@@ -76,16 +76,19 @@
 
 
 <!-- GitHub's STATS  -->
-<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+<h3 align="center"><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
+
+<hr>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark)](https://git.io/streak-stats)
 
-<p>
+<p align="center">
 <a href="https://github.com/Aakashvani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakashvani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/>
 </p>
 
 
