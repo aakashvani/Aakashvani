@@ -52,11 +52,8 @@
 <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vs-code"/>
- <img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
- <img src="https://img.shields.io/badge/Figma-CB3837?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/>
- 
- 
-
+<img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
+<img src="https://img.shields.io/badge/Figma-CB3837?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/>
 </p>
 
 
@@ -84,5 +81,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark)](https://git.io/streak-stats)
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakashvani&show_icons=true&theme=merko)
+
+<p align="center">
+<a href="https://github.com/Aakashvani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakashvani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
