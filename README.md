@@ -68,9 +68,11 @@
 
 
 <!-- language i know  -->
- <p>
+<!-- 
+<p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashvani&show_icons=true&locale=en&layout=compact" alt="aakashvani" />
 </p>
+-->
 
 <br/> 
 
@@ -81,8 +83,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark)](https://git.io/streak-stats)
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakashvani&show_icons=true&theme=radical)
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aakashvani&theme=default)](https://git.io/streak-stats) <a href="https://github.com/Aakashvani/github-readme-stats"><img alt="Aakashvani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aakashvani&show_icons=true&count_private=true&theme=default" height="196"/></a>
+![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakashvani&show_icons=true&theme=merko)
 
 
