@@ -70,20 +70,15 @@
 <!-- GitHub's STATS  -->
 <h3 align="center"><i>GitHub's Analytics <img align="center" src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/50/000000/external-analytics-infographic-and-chart-xnimrodx-blue-xnimrodx.png"/></i></h3>
 
-
-
 <hr>
-
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark)](https://git.io/streak-stats) -->
 
 <p align="center">
 <a href="https://github.com/Aakashvani">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/>
-  
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aakashvani&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakashvani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 
