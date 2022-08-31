@@ -1,6 +1,8 @@
 
 ![](https://i.imgur.com/iuI9HCZ.png)
 
+
+
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Aakash Kumar  <img src="https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="45" align="center"></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3> -->
 
@@ -21,6 +23,9 @@
 
 - 📉 **Have a look into** [My Resume](https://drive.google.com/file/d/1T2SEim-ZpDCpyOSrHUhaKjcq-MLFfrJY/view?usp=sharing)
 
+<br>
+<br/> 
+<hr>
 
 <h3 align="left">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
 <p align="left">
@@ -68,7 +73,10 @@
 
 
 <!-- GitHub's STATS  -->
-<h3 align="center"><i>GitHub's Analytics <img align="center" src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/50/000000/external-analytics-infographic-and-chart-xnimrodx-blue-xnimrodx.png"/></i></h3>
+<h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
+
+
+
 
 <hr>
 
@@ -80,6 +88,9 @@
 </a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
+
+
+<hr>
 
 
 
