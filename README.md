@@ -61,7 +61,7 @@
 <img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
 <img src="https://img.shields.io/badge/Figma-CB3837?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/>
  <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
- <img src="https://img.shields.io/badge/sass-DB7093?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+ <img src="https://img.shields.io/badge/sass-EB447B?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
 </p>
 
 
