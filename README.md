@@ -14,8 +14,7 @@
 <p align="left"> <a href="https://twitter.com/aakashvani17" target="blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?logo=twitter&style=for-the-badge" alt="aakashvani17" /></a> </p>
 
 - 🌱 I’m currently learning [TYPESCIRPT](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [Medium](https://medium.com/@aakashvani17)
 
 - 💬 Ask me about [MERN](https://www.mongodb.com/mern-stack) , [Figma](https://www.figma.com/best-practices/guide-to-developer-handoff/file-organization/)
 
