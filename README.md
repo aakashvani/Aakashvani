@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **tech.aku17@gmail.com**
 
-- 📉 **Have a look into** [My Resume](https://drive.google.com/drive/folders/1yRZLb_OF0D0uwrS_k0z-wVAOn7xJuHin?usp=sharing)
+<!-- - 📉 **Have a look into** [My Resume](https://drive.google.com/drive/folders/1yRZLb_OF0D0uwrS_k0z-wVAOn7xJuHin?usp=sharing) -->
 
 <br>
 <br/> 
