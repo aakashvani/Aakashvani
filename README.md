@@ -96,7 +96,7 @@
 <h3 align="center">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
 <p align="center">
 <a href="https://twitter.com/aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashvani17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashvani17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aakashvani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashvani17" height="30" width="40" /></a>
 <a href="https://instagram.com/aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashvani17" height="30" width="40" /></a>
 <a href="https://medium.com/@aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aakashvani17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tech_aku17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna2000chy" height="30" width="40" /></a>
