@@ -1,68 +1,68 @@
 
 ![](https://i.imgur.com/iuI9HCZ.png)
 
+<!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
 
+<p align="center">
+  <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://nitinranganath.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p>
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Aakash Kumar  <img src="https://media3.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="45" align="center"></h1>
-<h3 align="center">A passionate Full Stack developer from India</h3> -->
-
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aakashvani17" target="blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?logo=twitter&style=for-the-badge" alt="aakashvani17" /></a> </p>
-
-- 🌱 I’m currently learning Next.JS
-- 📝 I regularly write articles on [Medium](https://medium.com/@aakashvani17)
-
-- 💬 Ask me about [MERN](https://www.mongodb.com/mern-stack) , [Figma](https://www.figma.com/best-practices/guide-to-developer-handoff/file-organization/) , [Nest.js](https://nextjs.org/docs/getting-started)
-
-- 📫 How to reach me **tech.aku17@gmail.com**
-
-<!-- - 📉 **Have a look into** [My Resume](https://drive.google.com/drive/folders/1yRZLb_OF0D0uwrS_k0z-wVAOn7xJuHin?usp=sharing) -->
-
-<br>
-<br/> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- tech-stack icons  -->
-<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
-<p >
+## ⚡ Stuff I Know
+
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
- 
- <!-- FrameWork -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-
-<!-- Styling FrameWork -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
-<img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
- <img src="https://img.shields.io/badge/sass-EB447B?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-
-
-
-<img src="https://img.shields.io/badge/Figma-CB3837?style=for-the-badge&logo=Figma&logoColor=white" alt="figma"/>
-<img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vs-code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/Yarn-100000?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![react.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![redux](https://img.shields.io/badge/ReduxToolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![chakra-ui](https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white)
+<br>
+<br/> 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-116149?style=for-the-badge&logo=mongodb&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<br>
+<br/> 
+![vs-code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-CB3837?style=for-the-badge&logo=Figma&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
-</p>
+<!-- ![]() -->
+
+## 🤔 Stuff Want To Explore
+
+![Typescript](https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
+![github-actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GithubActions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-RTL-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <p  align="center">
@@ -74,13 +74,7 @@
 
 
 <!-- GitHub's STATS  -->
-<h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
-
-
-
-
-<hr>
-
+## 🤓 Projects & GitHub
 <p align="center">
 <a href="https://github.com/Aakashvani">
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/> -->
@@ -91,18 +85,17 @@
 </p>
 
 
-<hr>
 
-<h3 align="center">Connect with me: <img src="https://jorgeartola.com/wp-content/uploads/ja_web2018_contact_callme_09.gif" width="45" align="center"></h3>
-<p align="center">
-<a href="https://twitter.com/aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashvani17" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aakashvani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashvani17" height="30" width="40" /></a>
-<a href="https://instagram.com/aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashvani17" height="30" width="40" /></a>
-<a href="https://medium.com/@aakashvani17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aakashvani17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tech_aku17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna2000chy" height="30" width="40" /></a>
-<a href="https://leetcode.com/Aakashvani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshav_chy" height="30" width="40" /></a>
- 
-</p>
 
+<!-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/Vercel-100000?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Yarn-100000?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![ssas](https://img.shields.io/badge/sass-EB447B?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-->
 
 
