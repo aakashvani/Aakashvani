@@ -76,7 +76,11 @@
 
 <!-- GitHub's STATS  -->
 ## 🤓 Projects & GitHub
-<p align="center">
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br />
+ <p align="center">
 <a href="https://github.com/Aakashvani">
 <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aakashvani&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
@@ -84,7 +88,7 @@
 </a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
-
+</details>
 
 
 
