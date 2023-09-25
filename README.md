@@ -15,6 +15,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p>
 
+<!-- Animated line for break  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- tech-stack icons  -->
@@ -92,6 +93,9 @@
 </a>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
+  <p align="center">
+    <a href="https://app.daily.dev/aakashvani"><img src="https://api.daily.dev/devcards/28b3add3930a467fbb668bb5496e59ed.png?r=jtf" width="300" alt="Aakash Kumar's Dev Card"/></a>
+  </p>
 </details>
 
 
