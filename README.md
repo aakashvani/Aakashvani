@@ -91,7 +91,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aakashvani&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakashvani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  -->
 </p>
   <p align="center">
     <a href="https://app.daily.dev/aakashvani"><img src="https://github.com/aakashvani/aakashvani/blob/main/devcard.svg" width="300" alt="Aakash's Dev Card"/></a>
