@@ -82,7 +82,7 @@
 ## 🤓 Projects & GitHub
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  <summary><b><h2>📊 GitHub Stats</h2></b></summary>
   <br />
  <p align="center">
 <a href="https://github.com/Aakashvani">
