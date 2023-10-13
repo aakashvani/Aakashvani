@@ -78,8 +78,8 @@
 
 
 
-<!-- GitHub's STATS  -->
-## 🤓 Projects & GitHub
+<!-- GitHub's STATS  
+## 🤓 Projects & GitHub -->
 
 <details>
   <summary><b><h2>📊 GitHub Stats</h2></b></summary>
