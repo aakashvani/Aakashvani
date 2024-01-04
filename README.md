@@ -1,7 +1,7 @@
 
-![](https://i.imgur.com/iuI9HCZ.png)
+<!-- ![](https://i.imgur.com/iuI9HCZ.png) -->
 
-<!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
 <!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
 
 <p align="center">
@@ -68,6 +68,7 @@
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
 <!--![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)-->
 
 
