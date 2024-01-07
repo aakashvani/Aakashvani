@@ -19,7 +19,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- tech-stack icons  -->
-## ⚡ Stuff I Know
+## ⚡ Tech I Worked
 
 
 <!-- Languages -->
@@ -50,7 +50,7 @@
 
 <!-- ![]() -->
 
-## 🤔 Stuff Want To Explore
+## 🤔 Tech Want To Explore
 
 ![Typescript](https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
