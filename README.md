@@ -2,6 +2,9 @@
 <!-- ![](https://i.imgur.com/iuI9HCZ.png) -->
 
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+<p align="center">
+With 1+ years as a full-stack developer in MERN stack, I excel in crafting robust, user-centric solutions. I thrive on collaborative efforts within interdisciplinary teams to achieve project success.
+</p>
 <!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
 
 <p align="center">
