@@ -2,6 +2,11 @@
 <!-- ![](https://i.imgur.com/iuI9HCZ.png) -->
 
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️" alt="Typing SVG" /></a>
+</p>
+
 <p align="center">
 With 1+ years as a full-stack developer in MERN stack, I excel in crafting robust, user-centric solutions. I thrive on collaborative efforts within interdisciplinary teams to achieve project success.
 </p>
