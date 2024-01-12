@@ -25,10 +25,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🤵🏻‍♂️ About Me
-<p align="left">
-Hey!!! My name is Aakash Kumar. I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐  
-With 1+ years as a full-stack developer in MERN stack, I excel in crafting robust, user-centric solutions. I thrive on collaborative efforts within interdisciplinary teams to achieve project success.
-</p>
+  <p align="left">
+    ✨ Creating bugs since  2020.
+    <br>
+    📚 I'm a Techie nerd.
+    <br>
+    🎯 Goals: Hustle to get into 0.1%.
+    <br>
+    🎲 Fun fact: If it's working, don’t touch it.
+    <br>
+    📍 From India.
+  </p>
+
+
+
+ <!--<p align="right">
+    Hey!!! My name is Aakash Kumar. I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐  
+    With 1+ years as a full-stack developer in MERN stack, I excel in crafting robust, user-centric solutions. I thrive on collaborative efforts within interdisciplinary teams to achieve project success.
+  </p> -->
+
+<br>
 
 <!-- tech-stack icons  -->
 ## ⚡ Tech I Worked
@@ -123,6 +139,16 @@ With 1+ years as a full-stack developer in MERN stack, I excel in crafting robus
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,angular,figma)](https://github.com/aakashvani)
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/aakashvani)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/aakashvani)
 -->
 
 
