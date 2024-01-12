@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🤵🏻‍♂️ About Me
- ### ✨ Creating bugs since  2020.    ||    📚 I'm a Techie nerd.    ||    🎯 Goals: Hustle to get into 0.1%.<br>
+ ### ✨ Creating bugs since  2021.    ||    📚 I'm a Techie nerd.    ||    🎯 Goals: Hustle to get into 0.1%.<br>
  ###   🎲 Fun fact: If it's working, don’t touch it.    ||    📍 From India 🇮🇳.
   
   <!-- <p align="left"></p> -->
