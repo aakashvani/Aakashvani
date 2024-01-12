@@ -4,7 +4,7 @@
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️;I'm Techie Nerd" alt="Typing SVG" /></a>
 </p>
 
 
