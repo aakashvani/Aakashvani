@@ -144,6 +144,7 @@
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/aakashvani)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/aakashvani)
 -->
 
 
