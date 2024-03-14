@@ -4,7 +4,7 @@
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️;I'm Techie Nerd" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+Human+Software+ Enginner;Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️;I'm Techie Nerd;" alt="Typing SVG" /></a>
 </p>
 
 
@@ -24,20 +24,24 @@
 <!-- Animated line for break  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+
 ## 🤵🏻‍♂️ About Me
+<!--
  ### ✨ Creating bugs since  2021.    ||    📚 I'm a Techie nerd.    ||    🎯 Goals: Hustle to get into 0.1%.<br>
  ###   🎲 Fun fact: If it's working, don’t touch it.    ||    📍 From India 🇮🇳.
-  
+-->
+
   <!-- <p align="left"></p> -->
   
    
 
 
 
- <!--<p align="right">
-    Hey!!! My name is Aakash Kumar. I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐  
-    With 1+ years as a full-stack developer in MERN stack, I excel in crafting robust, user-centric solutions. I thrive on collaborative efforts within interdisciplinary teams to achieve project success.
-  </p> -->
+<p align="center">
+  Results-oriented Full Stack Developer with 2 years of expertise in web development. Skilled in HTML, CSS, JavaScript,
+  React.js, Node.js, Express.js, MongoDB, Linux, Git & GitHub. Committed to staying updated with the latest industry
+  trends. Ready to contribute technical proficiency and problem-solving skills to dynamic development projects.
+</p> 
 
 <br>
 
