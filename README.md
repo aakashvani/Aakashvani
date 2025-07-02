@@ -1,7 +1,8 @@
 
 <!-- ![](https://i.imgur.com/iuI9HCZ.png) -->
 
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+<h3>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
+<a href="https://www.twitter.com/aakashvani17" target="__blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?style=social" alt="Twitter"></a>
 
 <p align="center">
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+Human+Software+ Enginner;Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️;I'm Techie Nerd;" alt="Typing SVG" /></a> -->
@@ -10,22 +11,26 @@
 
 <!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
 
-<p align="center">
-  <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p>
   <a href="https://linkedin.com/in/aakashvani" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
- <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p>
+
+<!--
+ <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+ <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+ <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ 
+-->
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p> -->
 
 <!-- Animated line for break  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
-## 🤵🏻‍♂️ About Me
+<!--## 🤵🏻‍♂️ About Me-->
 <!--
  ### ✨ Creating bugs since  2021.    ||    📚 I'm a Techie nerd.    ||    🎯 Goals: Hustle to get into 0.1%.<br>
  ###   🎲 Fun fact: If it's working, don’t touch it.    ||    📍 From India 🇮🇳.
@@ -37,31 +42,28 @@
 
 
 
-<p align="center">
-  Results-oriented Full Stack Developer with 2+ years of expertise in web development. Skilled in HTML, CSS, JavaScript,
-  React.js, Node.js, Express.js, MongoDB, Linux, Git & GitHub. Committed to staying updated with the latest industry
-  trends. Ready to contribute technical proficiency and problem-solving skills to dynamic development projects.
-</p> 
+- I build web apps.
+- Full stack developer, 2+ years in.
+- Always learning, always shipping.
 
 <br>
 
 <!-- tech-stack icons  -->
-## ⚡ Tech I Worked
+### ⚡ Tech-Stack
 
 
 <!-- Languages -->
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br/> 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![react.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![redux](https://img.shields.io/badge/ReduxToolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![chakra-ui](https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white)
 <br>
 <br/> 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -82,7 +84,10 @@
 
 <!-- ![]() -->
 
+<!--
 ## 🤔 Tech Want To Explore
+![chakra-ui](https://img.shields.io/badge/Shadcn%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white)
+
 
 ![github-actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -98,6 +103,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
+-->
 
 <!--![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)-->
 <!--![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)-->
@@ -116,7 +122,7 @@
 ## 🤓 Projects & GitHub -->
 
 <details>
-  <summary><b><h2>📊 GitHub Stats</h2></b></summary>
+  <summary><b><h3>📊 GitHub Stats</h3></b></summary>
   <br />
  <p align="center">
 <a href="https://github.com/Aakashvani">
