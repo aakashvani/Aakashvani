@@ -5,52 +5,12 @@
 <a href="https://www.twitter.com/aakashvani17" target="__blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/aakashvani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<p align="center">
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+Human+Software+ Enginner;Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️;I'm Techie Nerd;" alt="Typing SVG" /></a> -->
-</p>
-
-
-<!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
-
-<p>
-  <a href="https://linkedin.com/in/aakashvani" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
-<!--
- <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
- <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
- <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
- 
--->
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p> -->
-
-<!-- Animated line for break  -->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-
-<!--## 🤵🏻‍♂️ About Me-->
-<!--
- ### ✨ Creating bugs since  2021.    ||    📚 I'm a Techie nerd.    ||    🎯 Goals: Hustle to get into 0.1%.<br>
- ###   🎲 Fun fact: If it's working, don’t touch it.    ||    📍 From India 🇮🇳.
--->
-
-  <!-- <p align="left"></p> -->
-  
-   
-
-
-
 - I build web apps.
 - Full stack developer, 2+ years in.
 - Always learning, always shipping.
 
 <!-- tech-stack icons  -->
 ### ⚡ Tech-Stack
-
-
 <!-- Languages -->
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -81,6 +41,65 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                  
+
+
+<!-- GitHub's STATS  
+## 🤓 Projects & GitHub -->
+
+<details>
+  <summary><h3>📊 GitHub Stats</h3></summary>
+ <p align="center">
+<a href="https://github.com/Aakashvani">
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aakashvani&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakashvani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
+  <p align="center">
+    <!-- 
+    <a href="https://app.daily.dev/aakashvani"><img src="https://api.daily.dev/devcards/v2/SzCJXKdYR6hy1a0HsacEV.png?r=e3h&type=default" width="356" alt="Aakash Kumar's Dev Card"/></a>
+     <a href="https://app.daily.dev/aakashvani"><img src="https://api.daily.dev/devcards/v2/SzCJXKdYR6hy1a0HsacEV.png?r=e3h&type=wide" width="652" alt="Aakash Kumar's Dev Card"/></a>
+    -->
+    <a href="https://app.daily.dev/aakashvani"><img src="https://github.com/aakashvani/aakashvani/blob/main/devcard.svg" width="300" alt="Aakash's Dev Card"/></a> 
+  </p>
+</details>
+
+
+<!--
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+Human+Software+ Enginner;Full+Stack+Software+Engineer;Software+Developer;i+love+JavaScript+❤️;I'm Techie Nerd;" alt="Typing SVG" /></a> 
+</p>
+-->
+
+
+<!-- <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full stack developer 👨🏻‍💻 from Bangalore, India who loves to create for the web 🌐.</h3> -->
+
+<!--
+ <a href="https://linkedin.com/in/aakashvani" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="mailto:aakash.krm@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+ <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+ <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ 
+-->
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p> -->
+
+<!-- Animated line for break  -->
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+
+<!--## 🤵🏻‍♂️ About Me-->
+<!--
+ ### ✨ Creating bugs since  2021.    ||    📚 I'm a Techie nerd.    ||    🎯 Goals: Hustle to get into 0.1%.<br>
+ ###   🎲 Fun fact: If it's working, don’t touch it.    ||    📍 From India 🇮🇳.
+-->
+
+  <!-- <p align="left"></p> -->
+
 <!-- ![]() -->
 
 <!--
@@ -107,40 +126,6 @@
 <!--![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)-->
 <!--![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)-->
 <!--![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)-->
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-<br>
-<br/> 
-
-
-
-<!-- GitHub's STATS  
-## 🤓 Projects & GitHub -->
-
-<details>
-  <summary><b><h3>📊 GitHub Stats</h3></b></summary>
-  <br />
- <p align="center">
-<a href="https://github.com/Aakashvani">
-<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashvani&theme=dark"/> -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Aakashvani&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aakashvani&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aakashvani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-  <p align="center">
-    <!-- 
-    <a href="https://app.daily.dev/aakashvani"><img src="https://api.daily.dev/devcards/v2/SzCJXKdYR6hy1a0HsacEV.png?r=e3h&type=default" width="356" alt="Aakash Kumar's Dev Card"/></a>
-     <a href="https://app.daily.dev/aakashvani"><img src="https://api.daily.dev/devcards/v2/SzCJXKdYR6hy1a0HsacEV.png?r=e3h&type=wide" width="652" alt="Aakash Kumar's Dev Card"/></a>
-    -->
-    <a href="https://app.daily.dev/aakashvani"><img src="https://github.com/aakashvani/aakashvani/blob/main/devcard.svg" width="300" alt="Aakash's Dev Card"/></a> 
-   
-  </p>
-</details>
-
 
 
 <!-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
