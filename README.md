@@ -2,7 +2,8 @@
 <!-- ![](https://i.imgur.com/iuI9HCZ.png) -->
 
 <h3>Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h3>
-<a href="https://www.twitter.com/aakashvani17" target="__blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?style=social" alt="Twitter"></a>
+<!-- <a href="https://www.twitter.com/aakashvani17" target="__blank"><img src="https://img.shields.io/twitter/follow/aakashvani17?style=social" alt="Twitter"></a> -->
+<a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/aakashvani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 - I build web apps.
@@ -83,7 +84,7 @@
  <a href="https://aakash-kumar.vercel.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
  <a href="https://medium.com/@aakashvani17" target="_blank"><img height="27" src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
  <a href="https://dev.to/aakashvani" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://twitter.com/aakashvani17" target="_blank"><img height="25" src = "https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  
  
 -->
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=aakashvani&label=Profile%20views&color=0e75b6&style=flat" alt="aakashvani" /> </p> -->
